@@ -12,4 +12,9 @@
   ## Screenshot
   ![alt text](https://github.com/JonahBCoding/CodingQuiz/blob/master/assets/Screenshot%20(30).png)
   
+  ## Coded With
+  *HTML
+  *CSS
+  *JavaScript
+  
   
