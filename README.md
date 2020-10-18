@@ -10,6 +10,6 @@
   https://jonahbcoding.github.io/CodingQuiz/
   
   ## Screenshot
-  ![alt text](http://github)
+  ![alt text](https://github.com/JonahBCoding/CodingQuiz/blob/master/assets/Screenshot%20(30).png)
   
   
